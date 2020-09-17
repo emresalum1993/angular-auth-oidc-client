@@ -3,6 +3,8 @@
 ### 2020-09-17 Version 11.2.1
 - renewUserInfoAfterTokenRenew to OpenIdConfiguration
   -   [PR](https://github.com/damienbod/angular-auth-oidc-client/pull/856)
+- fixed typos and added reset silent renew
+  -   [PR](https://github.com/damienbod/angular-auth-oidc-client/pull/857)
 
 ### 2020-08-08 Version 11.2.0
 
